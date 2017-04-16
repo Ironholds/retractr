@@ -1,3 +1,14 @@
+#' @title Open Retractions client
+#' @name retractr
+#' @description This package provides access to the Open Retractions database,
+#' which contains information on retracted papers, through its programmatic API.
+#'
+#' @seealso \code{\link{check_retraction}}, the package's sole function.
+#'
+#' @docType package
+#' @aliases retractr retractr-package
+NULL
+
 #'@importFrom httr GET user_agent stop_for_status content
 check_single <- function(url){
 
