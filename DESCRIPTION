@@ -14,3 +14,5 @@ Date: 2017-04-16
 URL: https://www.github.com/Ironholds/retractr
 BugReports: https://www.github.com/Ironholds/retractr/issues
 Suggests: testthat
+Imports:
+	httr
