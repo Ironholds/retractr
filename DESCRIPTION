@@ -1,0 +1,16 @@
+Package: retractr
+Type: Package
+Title: Paper Retractions API Client
+Version: 0.1.0
+Author: Oliver Keyes [aut, cre]
+Maintainer: Oliver Keyes <ironholds@gmail.com>
+Description: A connector to the API for 'Open Retractions' <http://openretractions.com/>, a database
+	of retracted academic papers.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Date: 2017-04-16
+URL: https://www.github.com/Ironholds/retractr
+BugReports: https://www.github.com/Ironholds/retractr/issues
+Suggests: testthat
